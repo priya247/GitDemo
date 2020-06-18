@@ -32,3 +32,4 @@ while True:
         print("Thank you!")
     elif userChoice is 3:
         quit()
+print("Testing of branching and git")
